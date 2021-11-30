@@ -1,8 +1,17 @@
-# Application Name
+# Application "Wikipedia"
 
-TODO: Describe your application here.
+Web application that loads entries saved as a markdown file. Other functions are: searching among the entries, creating a new entry and going to a random entry page. 
 
 
-## Getting Started
+## Necessary html files
 
-TODO: Describe steps to install requirements and get the application running.
+1. a general lay-out for the homepage
+2. a html file for the homepage, that lists all entries (with links)
+3. a html file for the entries
+4. a html "error" file for when an entry was not found/an entry does not exist.
+5. a html file for creating a new page
+6. a html file for all the search results
+7. a html file for editing an existing entry page
+
+### Sketches
+
