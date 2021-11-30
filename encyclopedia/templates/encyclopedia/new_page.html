@@ -1,0 +1,17 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Create a new page
+{% endblock %}
+
+{% block body %}
+    <form method = "post">
+        {% if error_message %}
+         <p class="text-danger">{{ error_message }}</p>
+        {% endif %}
+        {% csrf_token %}
+        {{form}}
+        <button type = "submit">save entry</button>
+    </form>
+
+{% endblock %}
