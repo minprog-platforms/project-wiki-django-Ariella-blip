@@ -13,5 +13,6 @@ Web application that loads entries saved as a markdown file. Other functions are
 6. a html file for all the search results
 7. a html file for editing an existing entry page
 
-### Sketches
+## Sketches
 
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Edit_entry_page.png "Optional title")
