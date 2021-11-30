@@ -15,4 +15,10 @@ Web application that loads entries saved as a markdown file. Other functions are
 
 ## Sketches
 
-![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Edit_entry_page.png "Optional title")
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Edit_entry_page.png)
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Entry_page.png)
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Error_page.png)
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Indexpage.png)
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/Search_results.png)
+![Alt text](https://github.com/minprog-platforms/project-wiki-django-Ariella-blip/blob/main/Sketches/new_page.png)
+
